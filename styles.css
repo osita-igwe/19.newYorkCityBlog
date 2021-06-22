@@ -1,0 +1,150 @@
+body {
+	background: #FFFFFF;
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+	width: 100%
+}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #000000;
+	overflow: visible;
+	display: table;
+	width: 100%
+}
+nav li {
+	display: table-cell
+}
+li a {
+	display: block;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 10px 30px;
+	text-decoration: none
+}
+li a: hover {
+	color: #FFFF00
+}
+article {
+	font-size: 18px;
+	line-height: 32px;
+	text-align: justify;
+	padding: 5% 10%
+}
+h1 {
+	font-size: 30px
+}
+h2 a {
+	padding: 33px 25px;
+	color: #FFFFFF;
+	text-decoration: none
+}
+h2 a: hover {
+	background-color: #111
+}
+aside {
+	font-size: 18px;
+	background-color: #000000;
+	color: #FFFFFF;
+	height: 100%;
+	margin: 0
+}
+img {
+	width: 100%;
+	height: 80%
+}
+footer {
+	position: relative;
+	width: 100%;
+	bottom: -100px;
+	background-color: #010e80
+}
+footer p {
+	color: #FFFFFF;
+	text-decoration: none;
+	padding: 10px;
+	text-align: center;
+	width: 100%;
+	box-sizing: border-box
+}
+footer a {
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: center;
+	width: 100%
+}
+video {
+	height: 100%
+}
+audio {
+	height: 100%;
+	width: 100%
+}
+figure {
+	margin: 0;
+	padding: 0;
+	width: 100%
+}
+figcaption {
+	text-align: center;
+	background-color: #000000;
+	color: #FFFFFF;
+	width: 100%
+}
+.asideContent {
+	padding: 10%;
+	height: 100%
+}
+.hero-image {
+	background-image: url('https: //upload.wikimedia.org/wikipedia/commons/e/e5/THANK_YOU_NYC.jpg');
+	background-color: #cccccc;
+	height: 500px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative
+}
+.hero-text {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -47%);
+	color: #FFFFFF
+}
+.overlay {
+	position: absolute;
+	bottom: 0;
+	background: rgba(0, 0, 0, 0.5);
+	/* Black see-through */
+	opacity: 3;
+	padding: 30px;
+	text-align: center
+}
+.halfsplit {
+	display: inline-block;
+	width: 49.5%;
+	height: 100%;
+	vertical-align: top
+}
+.thirdsplit {
+	display: inline-block;
+	width: 32%;
+	border: 1px solid black;
+	margin: 0;
+	height: 50%;
+	background-color: #000000;
+	vertical-align: top
+}
+.figcaptionContent {
+	padding: 2% 2%
+}
+#forYourInfo {
+	background-color: #000000;
+	height: 400px
+}
+#media {
+	padding: 0 0 0 2%
+}
