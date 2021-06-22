@@ -7,7 +7,7 @@ After researching New York City, you decide to create a blog for your viewers wh
 
 ## Completed Project
 
-[!New York Nomad: A Travel Blog Homepage!](https://github.com/osita-igwe/19.newYorkCityBlog/blob/main/nyNomad.png)
+![New York Nomad: A Travel Blog Homepage!](https://github.com/osita-igwe/19.newYorkCityBlog/blob/main/nyNomad.png)
 
 The homepage can be viewed [here](https://osita-igwe.github.io/19.newYorkCityBlog/)
 
