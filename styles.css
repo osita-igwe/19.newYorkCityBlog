@@ -98,7 +98,7 @@ figcaption {
 	height: 100%
 }
 .hero-image {
-	background-image: url('https: //upload.wikimedia.org/wikipedia/commons/e/e5/THANK_YOU_NYC.jpg');
+	background-image: url('./media/images/THANK_YOU_NYC-min .jpg');
 	background-color: #cccccc;
 	height: 500px;
 	background-position: center;
