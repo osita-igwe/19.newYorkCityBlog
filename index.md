@@ -14,13 +14,13 @@
     <nav>
       <ul>
         <li>
-          <a href="/about">About</a>
+          <a href="#about">About</a>
         </li>
         <li>
-          <a href="/blog">Blog</a>
+          <a href="#blog">Blog</a>
         </li>
         <li>
-          <a href="/media">Media</a>
+          <a href="#media">Media</a>
         </li>
         <li>
           <a class="link-secondary" href="/index.html" aria-label="Search">
