@@ -14,13 +14,13 @@
     <nav>
       <ul>
         <li>
-          <a href="/#about">About</a>
+          <a href="/about">About</a>
         </li>
         <li>
-          <a href="/#blog">Blog</a>
+          <a href="/blog">Blog</a>
         </li>
         <li>
-          <a href="/##media">Media</a>
+          <a href="/media">Media</a>
         </li>
         <li>
           <a class="link-secondary" href="/index.html" aria-label="Search">
@@ -57,7 +57,7 @@
     </section>
     <section id="forYourInfo">
       <figure class="halfsplit">
-        <img   src="https://content.codecademy.com/courses/Semantic%20HTML/statue-of-liberty.jpeg" alt="The Statue of Liberty">
+        <img src="./media/images/statue-of-liberty.jpeg">
         <figcaption>
           <p class="figcaptionContent">This is the Statue of Liberty, a popular tourist attraction located on Ellis
           Island.</p></figcaption>
@@ -84,13 +84,13 @@
         <p>While the view in the city is beautiful, the sounds are not as lovely. Below you'll see an example of the
           view and the sounds you'll deal with in NYC on a daily basis.</p>
       </article>
-        <embed class="thirdsplit" src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-skyline.jpeg">
+        <embed class="thirdsplit" src="./media/images/nyc-skyline.jpeg">
       <video class="thirdsplit" controls autoplay
-        src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-skyline-timelapse.mp4">Video cannot be
+        src="./media/nyc-skyline-timelapse.mp4">Video cannot be
         displayed</video>
       <div class="thirdsplit" >
       <audio controls
-        src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-sounds.mov"></audio>
+        src="./media/nyc-sounds.mov"></audio>
       </div>
 
     </section>
@@ -99,6 +99,10 @@
     <p>Contact information: Blogger@NYC.com</p>
     <p>Created by Osita Igwe</p>
   </footer>
+
+
+
+
 </body>
 
 </html>
