@@ -119,7 +119,6 @@ figcaption {
 	bottom: 0;
 	background: rgba(0, 0, 0, 0.5);
 	/* Black see-through */
-	opacity: 3;
 	padding: 30px;
 	text-align: center
 }
